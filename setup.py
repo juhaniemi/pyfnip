@@ -7,4 +7,7 @@ setup(name='pyfnip',
       author='Juha Niemi',
       author_email='juha@juhaniemi.net',
       packages=['pyfnip'],
+      classifiers=("Programming Language :: Python :: 3",
+                   "License :: OSI Approved :: MIT License",
+                   "Operating System :: OS Independent"),
       zip_safe=False)
