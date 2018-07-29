@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='pyfnip',
-      version='0.1',
+      version='0.2',
       description='Python wrapper for FutureNow IP relay/dimmer units',
       url='http://github.com/juhaniemi/pyfnip',
       author='Juha Niemi',
