@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(name='pyfnip',
       version='0.2',
-      description='Python wrapper for FutureNow IP relay/dimmer units',
+      description='Python wrapper for FutureNow IP relay/dimmer/window cover units',
       url='http://github.com/juhaniemi/pyfnip',
       author='Juha Niemi',
       author_email='juha@juhaniemi.net',
